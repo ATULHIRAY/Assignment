@@ -70,3 +70,5 @@ This project provides a simple Spring Boot-based Patient Management System where
   List all Therapists:
 
 # GET /th
+
+# Postman collection - https://www.postman.com/atulhiray/workspace/effdog/documentation/37723561-8dd97891-6ca1-4239-bfd6-0b98aafd52de
